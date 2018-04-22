@@ -1,0 +1,17 @@
+{
+  "name": "sample",
+  "version": "1.0.1",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.6.0",
+    "json-2-csv": "^2.2.0",
+    "jsonexport": "^2.0.11",
+    "yelp-fusion": "^2.0.2"
+  }
+}
